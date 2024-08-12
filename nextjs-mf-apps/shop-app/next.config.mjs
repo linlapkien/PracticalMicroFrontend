@@ -12,6 +12,7 @@ const nextConfig = {
           './Products': './components/Products.js',
           './category': './pages/category/index.js',
           './books': './pages/books/index.js',
+          './admin': './pages/admin/index.tsx',
         },
         extraOptions: {
           debug: false, // `false` by default
